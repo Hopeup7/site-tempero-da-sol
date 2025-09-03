@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Projeto Tempero da Sol - Sistema de reservas e cálculo de comida por peso com propaganda">
     <title>Tempero da Sol</title>
-    <link rel="stylesheet" href="temp_front/temp.styles.css">
+    <link rel="stylesheet" href="temp.styles.css">
 </head>
 <body>
     
@@ -383,7 +383,7 @@ css:
 /* ======== Banner ======== */
 #banner {
   height: 250px; /* Altura fixa para o banner */
-  background-image: url("imagens/ceu_restaurante.png"); /* Imagem de topo */
+  background-image: url("temp_front/imagens/ceu_restaurante.png"); /* Imagem de topo */
   background-position: center 25%; /* Centraliza verticalmente com leve deslocamento */
   background-size: cover; /* Preenche sem distorcer */
   background-repeat: no-repeat; /* Evita repetição */

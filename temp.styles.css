@@ -1,7 +1,7 @@
 /* ======== Banner ======== */
 #banner {
   height: 250px; /* Altura fixa para o banner */
-  background-image: url("imagens/ceu_restaurante.png"); /* Imagem de topo */
+  background-image: url("temp_front/imagens/ceu_restaurante.png"); /* Imagem de topo */
   background-position: center 25%; /* Centraliza verticalmente com leve deslocamento */
   background-size: cover; /* Preenche sem distorcer */
   background-repeat: no-repeat; /* Evita repetição */
