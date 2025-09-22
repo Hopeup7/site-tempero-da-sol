@@ -23,7 +23,7 @@
             <h2>O sabor de gerações que você merece!</h2>
 
             <p>
-                <strong>Solange</strong> começou a cozinhar aos 7 anos e, desde então, carrega uma bagagem que vai muito além das receitas. 
+                <strong>Sol</strong> começou a cozinhar aos 7 anos e, desde então, carrega uma bagagem que vai muito além das receitas. 
                 Cresceu cercada pelo aroma dos temperos frescos, aprendendo a equilibrar sabores e criar harmonizações que aquecem o coração de quem prova. 
                 Sua cozinha sempre foi um ponto de encontro, onde família e amigos se reuniam para compartilhar histórias e pratos preparados com carinho. 
                 Tudo começou no calor do forno a lenha, com panelas de ferro que guardavam segredos de gerações, e dali nasceu sua intimidade com cada ingrediente — 
@@ -32,7 +32,7 @@
 
             <p>
                 Há mais de <strong>30 anos</strong>, o <strong>Tempero da Sol</strong> leva à mesa o sabor que nasceu no coração de Minas Gerais. 
-                Dona e cozinheira, <strong>Solange</strong> aprendeu com sua mãe a arte da comida caseira, feita com atenção a cada detalhe e com o afeto que transforma refeições em lembranças. 
+                Dona e cozinheira, <strong>Sol</strong> aprendeu com sua mãe a arte da comida caseira, feita com atenção a cada detalhe e com o afeto que transforma refeições em lembranças. 
                 Ao seu lado, sua filha — braço direito na cozinha — soma dedicação e experiência, garantindo que cada prato seja um verdadeiro abraço em forma de sabor.
             </p>
 
@@ -42,7 +42,7 @@
             </p>
 
             <p>
-                A família se completa com o marido de <strong>Solange</strong>, que cuida da gestão com zelo e atenção, apoiando a esposa em todas as tarefas, inclusive na lavagem e organização dos produtos. 
+                A família se completa com o marido de <strong>Sol</strong>, que cuida da gestão com zelo e atenção, apoiando a esposa em todas as tarefas, inclusive na lavagem e organização dos produtos. 
                 E também com <strong>Alex</strong>, que se doa 100% em todas as situações, trazendo maestria na confecção de gelatinas que encantam os clientes — clientes que são, sem dúvida, nota 10.
             </p>
 
@@ -77,9 +77,10 @@
                                     Rua Alfredo Pujol, em frente ao Colégio Barão Homem de Mello<br>
                                     Santana, São Paulo – SP<br>
                                     <strong>Instagram:</strong>  
-                                    <a href="https://www.instagram.com/hopeup47/" target="_blank" class="botao-instagram">📷 Siga-nos</a><br>
+                                    <a href="https://www.instagram.com/saravaleriohair/" target="_blank" class="botao-instagram">📷 Siga-nos</a><br>
                                     <strong>WhatsApp:</strong> 
-                                    <a href="https://wa.me/5511953339198" target="_blank" class="botao-whatsapp">📲 Fale conosco</a>
+                                    <a href="https://wa.me/5511988243521" target="_blank" class="botao-whatsapp">📲 Junior</a>
+                                    <a href="https://wa.me/5511952395540" target="_blank" class="botao-whatsapp">📲 Sara Valerio Hair</a>
                                 </p>
                             </div>
                         </div>
@@ -125,7 +126,7 @@
                 <article class="prato-quente">
                     <h3>Arroz à Grega & Feijão da Roça</h3>
                     <p>
-                        No coração da cozinha, <strong>Solange</strong> transforma ingredientes simples em 
+                        No coração da cozinha, <strong>Sol</strong> transforma ingredientes simples em 
                         memórias inesquecíveis. O <em>arroz à grega</em>, soltinho e carregado de aromas, 
                         encontra o <em>feijão da roça</em>, encorpado e temperado com aquele toque mineiro 
                         que só quem nasceu no interior conhece. É comida de verdade, feita no fogo da dedicação 
@@ -136,7 +137,7 @@
                 <article class="saladas">
                     <h3>Saladas Frescas & Criativas</h3>
                     <p>
-                        Preparadas pela filha de Solange, cada salada é uma obra de arte da natureza: 
+                        Preparadas pela filha de Sol, cada salada é uma obra de arte da natureza: 
                         folhas crocantes, legumes coloridos e combinações que equilibram sabor e nutrição. 
                         Tudo lavado e higienizado com rigor, cortado na hora e temperado para realçar o frescor. 
                         Resultado? Saladas saudáveis, maravilhosas e suculentas, que alimentam o corpo e encantam o olhar.
@@ -376,9 +377,6 @@
 
 </body>
 </html>
-
-***
-css:
 
 /* ======== Banner ======== */
 #banner {
